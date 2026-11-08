@@ -49,15 +49,15 @@ To provide a clear picture of the duopoly's dynamics, the following visualizatio
 ### 1. The 5-Year Trajectory: ROE vs. Operating Margin
 While FamilyMart's ROE fluctuates wildly and eventually drops, 7-ELEVEN maintains a steady and premium return on equity. Looking at the Operating Margin, the core reason becomes clear: 7-ELEVEN consistently extracts double the operational profit from its revenue compared to FamilyMart.
 
-![ROE Trend](images/roe_trend.png)
-![Operating Margin Trend](images/operating_margin_trend.png)
+![ROE Trend](roe_trend.png)
+![Operating Margin Trend](operating_margin_trend.png)
 
 ### 2. DuPont Analysis: Deconstructing the ROE Illusion
 Why did FamilyMart's ROE occasionally catch up to 7-ELEVEN despite its poor margins? The DuPont analysis reveals the truth: 7-ELEVEN relies on strong core profitability (Net Margin), whereas FamilyMart artificially boosts its ROE using massive financial leverage (Equity Multiplier > 8.5x).
 
-![DuPont Analysis](images/dupont_analysis.png)
+![DuPont Analysis](dupont_analysis.png)
 
 ### 3. Long-Term Investor Assessment (Stress Testing)
 Implementing a strict dual-condition threshold: requiring a minimum **25% ROE** (red dashed line) alongside a **2.0% Net Margin**. 7-ELEVEN safely clears the benchmark as a strong "Buy", while FamilyMart fails the 25% equity return test, dropping to a "Hold".
 
-![Investor View](images/investor_view.png)
+![Investor View](investor_view.png)
