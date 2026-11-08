@@ -67,13 +67,17 @@ Implementing a strict dual-condition threshold: requiring a minimum **25% ROE** 
 ## 🛠️ How to Run the Project
 
 1. Clone the repository:
-   ```bash
-   git clone [https://github.com/Junl1993/Retail-Financial-Analysis-TW.git](https://github.com/Junl1993/Retail-Financial-Analysis-TW.git)
+```bash 
+ git clone https://github.com/Junl1993/Retail-Financial-Analysis-TW.git
+```
 
 2.Ensure you have the required Python libraries installed:
+```bash
 pip install pandas matplotlib
+```
 
 3.Run the Jupyter Notebook (Retail_Financial_Analysis_TW.ipynb) to automatically generate the financial CSV dataset, execute the stakeholder stress tests, and render the visualizations.
 
-Author: 呂易峻 YI-CHUN,LU (Accounting Major, National Taipei University)
+Author: 呂易峻 YI-CHUN, LU (Accounting Major, National Taipei University)
+
 Focus: Financial Data Analytics, Business Intelligence, Python Programming
