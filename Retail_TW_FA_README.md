@@ -68,4 +68,4 @@ Implementing a strict dual-condition threshold: requiring a minimum **25% ROE** 
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/Jun1993/Retail-Financial-Analysis-TW.git](https://github.com/Jun1993/Retail-Financial-Analysis-TW.git)
+   git clone [https://github.com/Junl1993/Retail-Financial-Analysis-TW.git](https://github.com/Junl1993/Retail-Financial-Analysis-TW.git)
