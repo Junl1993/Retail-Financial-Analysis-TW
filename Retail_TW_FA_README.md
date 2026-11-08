@@ -61,3 +61,11 @@ Why did FamilyMart's ROE occasionally catch up to 7-ELEVEN despite its poor marg
 Implementing a strict dual-condition threshold: requiring a minimum **25% ROE** (red dashed line) alongside a **2.0% Net Margin**. 7-ELEVEN safely clears the benchmark as a strong "Buy", while FamilyMart fails the 25% equity return test, dropping to a "Hold".
 
 ![Investor View](investor_view.png)
+
+---
+
+## 🛠️ How to Run the Project
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/Jun1993/Retail-Financial-Analysis-TW.git](https://github.com/Jun1993/Retail-Financial-Analysis-TW.git)
